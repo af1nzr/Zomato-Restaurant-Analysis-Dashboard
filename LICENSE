@@ -1,0 +1,44 @@
+# License
+
+**Regarding the Zomato Restaurant Analysis Dashboard and its Content:**
+
+This README.md file and the accompanying analysis of the Zomato restaurant data are provided for informational and analytical purposes only.
+
+**No formal open-source license (such as MIT, Apache, GPL, etc.) is explicitly granted for this document or the analysis contained herein.**
+
+**Use and Distribution:**
+
+* **Personal, Non-Commercial Use:** You are welcome to use this document and the insights derived for your personal, non-commercial study and understanding.
+* **Attribution:** If you choose to share or reference this analysis in any context, we kindly request that you provide appropriate attribution, acknowledging the source (e.g., "Source: Analysis of Zomato Data").
+* **No Commercial Redistribution or Modification:** Commercial redistribution or modification of this document or its content without explicit permission is prohibited.
+
+**Regarding the Underlying Zomato Data:**
+
+**This document does not grant any license to use the underlying Zomato restaurant data that this analysis is based upon.**
+
+* **Data Ownership and Terms of Service:** The data visualized and analyzed is assumed to be the property of Zomato. Its access and usage are strictly governed by Zomato's own Terms of Service, API usage policies, and any applicable legal agreements.
+* **Compliance with Zomato's Policies:** Any use of Zomato's data, including accessing it through their API, requires you to independently review and comply with Zomato's official policies.
+* **Commercial Use of Zomato Data:** Commercial use of Zomato's data typically requires a separate agreement or license directly with Zomato.
+
+**In summary, this README.md and the analysis are shared for informational purposes. No license is granted for commercial use or redistribution of this document or the underlying Zomato data. Users are solely responsible for understanding and adhering to Zomato's terms of service and any other relevant data usage policies.**
+
+---
+
+**For clarity:**
+
+This work (the README.md file and the analysis it contains) is shared under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)** for the document and the analysis itself.
+
+**You are free to:**
+
+* **Share:** copy and redistribute the material in any medium or format
+* **Adapt:** remix, transform, and build upon the material
+
+**Under the following terms:**
+
+* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **NonCommercial:** You may not use the material for commercial purposes.
+* **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+**However, this license EXPLICITLY DOES NOT grant any rights to the underlying Zomato data. Your use of Zomato's data is solely governed by Zomato's own terms and policies.**
+
+**Therefore, while you can share and adapt this analysis under the CC BY-NC-SA 4.0 license, you must independently obtain any necessary permissions or licenses from Zomato for using their data.**
