@@ -18,6 +18,10 @@ The dashboard presents a variety of metrics and visualizations to understand res
 
 **Visualizations and Insights:**
 
+<div align="center">
+  <img src="Assets/Dashboard-Demo.gif" alt="Dashboard Demo" width="700"/>
+</div>
+
 ### 1. Online Orders and Table Bookings by Restaurant Type
 
 * **Visualization Type:** Horizontal Bar Charts
